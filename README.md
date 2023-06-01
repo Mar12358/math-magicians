@@ -8,8 +8,8 @@
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
-- [📖 SWING DANCE STYLES AND STEPS LIBRARY ](#-swing-dance-styles-and-steps-library-)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Math Magicians ](#-math-magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,9 +29,9 @@
   - [📝 License ](#-license-)
 
 
-# 📖 SWING DANCE STYLES AND STEPS LIBRARY <a name="about-project"></a>
+# 📖 Math Magicians <a name="about-project"></a>
 
-This is the Awesome Books (ES6) Project for the 2nd block of module 2 at Microverse
+This is a Calculator Project built with React components. First block of module 3 at Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
