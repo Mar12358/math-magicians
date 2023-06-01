@@ -1,4 +1,5 @@
 import React from 'react';
+import './Calculator.css';
 
 const Calculator = () => (
   <section className="calculator">
@@ -25,7 +26,7 @@ const DisplayCalculator = () => (
     <button type="button" className="keys">2</button>
     <button type="button" className="keys">3</button>
     <button type="button" className="keys orange">+</button>
-    <button type="button" className="keys span-2">0</button>
+    <button type="button" className="keys zero-btn">0</button>
     <button type="button" className="keys">.</button>
     <button type="button" className="keys orange">=</button>
   </div>

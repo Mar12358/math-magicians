@@ -1,0 +1,12 @@
+.btns-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.screen {
+  grid-column: span 4;
+}
+
+.zero-btn {
+  grid-column: span 2;
+}
