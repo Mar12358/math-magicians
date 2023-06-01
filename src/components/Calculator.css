@@ -10,16 +10,12 @@
   text-align: end;
   color: white;
   background-color: rgb(121, 121, 121);
-  padding: 2.5%
-}
-
-.orange {
-  background-color: orange;
+  padding: 2.5%;
 }
 
 .screen,
 .btn {
-  border: 1px solid rgba(189, 189, 189, 0.842);  
+  border: 1px solid rgba(189, 189, 189, 0.842);
 }
 
 .btn {
