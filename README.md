@@ -31,7 +31,7 @@
 
 # 📖 Math Magicians <a name="about-project"></a>
 
-This is Calculator Project built with React components. First block of module 3 at Microverse.
+This is a Calculator Project built with React components. First block of module 3 at Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
