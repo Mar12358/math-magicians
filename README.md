@@ -70,7 +70,7 @@ This is a Calculator Project built with React components. First block of module 
 
 - **Create React App**
 - **Single Page Application**
-- **Coming soon...**
+- **Style**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,7 +117,13 @@ N/A
 
 
 ### Usage
-- To visualize the project, open it by launching the Live Server plugging in visual studio code.
+- To visualize the project, run:
+
+
+ ```sh
+  npm install
+  npm start
+```
 
 
 
@@ -143,9 +149,9 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Home page**
-- **Calculator**
-- **Quote section**
+- **Header**
+- **Section Toggle**
+- **Positioning**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
