@@ -25,7 +25,26 @@ const Quotes = () => {
     fetchData();
   }, []);
 
-  
+  if (error) {
+    return (
+      <div className="notification">
+        Something went wrong!
+        {error.message}
+      </div>
+    );
+  }
+  if (loading) return <div className="notification">Loading...</div>;
+
+  return (
+    <>
+      {data.map((quote) => (
+        <div className="quoteContainer" key={quote.category}>
+          <span className="quote">{quote.quote}</span>
+          <span className="author">{quote.author}</span>
+        </div>
+      ))}
+    </>
+  );
 };
 
 export default Quotes;
