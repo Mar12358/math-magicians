@@ -108,3 +108,7 @@ h1 {
 .quoteContainer .author {
   font-size: 1rem;
 }
+
+.text-wraper {
+  padding: 3% 10% 0 10%;
+}
