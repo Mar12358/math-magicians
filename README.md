@@ -54,7 +54,7 @@ This is a Calculator Project built with React components. First block of module 
 <details>
   <summary>Style</summary>
   <ul>
-    <li><a href="https://lenguajecss.com/">CSS</a></li>
+    <li><a href="https://ibaslogic.com/css-in-reactjs-app/">CSS in React</a></li>
   </ul>
 </details>
 
@@ -69,8 +69,8 @@ This is a Calculator Project built with React components. First block of module 
 ### Key Features <a name="key-features"></a>
 
 - **Create React App**
-- **Single Page Application**
-- **Style**
+- **Routing with react**
+- **SPA**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +112,9 @@ Clone:
 
 
 ### Install
-N/A
+ ```sh
+  npm install
+```
 
 
 
@@ -149,9 +151,8 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Header**
-- **Section Toggle**
-- **Positioning**
+- **Improve Style**
+- **Testing**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

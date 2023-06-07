@@ -40,7 +40,11 @@ const Quotes = () => {
       {data.map((quote) => (
         <div className="quoteContainer" key={quote.category}>
           <span className="quote">{quote.quote}</span>
-          <span className="author">{quote.author}</span>
+          <span className="author">
+            {' - '}
+            {quote.author}
+
+          </span>
         </div>
       ))}
     </>
