@@ -5,7 +5,10 @@ const CalculatorPage = () => (
   <div className="wrapper">
     <div className="todos">
       <Navbar />
-      <Calculator />
+      <div className="calc-container">
+        <span className="do-math-quote">Let&apos;s do some math!</span>
+        <Calculator />
+      </div>
     </div>
   </div>
 );
