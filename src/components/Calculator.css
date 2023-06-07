@@ -1,0 +1,33 @@
+
+.btns-container {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-template-rows: repeat(6, auto);
+}
+
+.screen {
+  grid-column: span 4;
+  text-align: end;
+  color: white;
+  background-color: rgb(121, 121, 121);
+  padding: 2.5%;
+}
+
+.screen,
+.btn {
+  border: 1px solid rgba(189, 189, 189, 0.842);
+}
+
+.btn {
+  background-color: rgb(209, 209, 209);
+  padding: 10%;
+}
+
+.zero-btn {
+  grid-column: span 2;
+  padding: 5%;
+}
+
+.orange {
+  background-color: rgba(253, 157, 12, 0.952);
+}

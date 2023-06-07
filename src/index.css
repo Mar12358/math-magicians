@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    'Roboto',
+    'Oxygen',
+    'Ubuntu',
+    'Cantarell',
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family:
+    source-code-pro,
+    Menlo,
+    Monaco,
+    Consolas,
+    'Courier New',
+    monospace;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+/* Active route */
+.active {
+  color: #005bb3;
+}
+
+nav > ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  height: 58px;
+  color: #212529;
+}
+
+li {
+  position: relative;
+  font-size: 14px;
+  padding: 0.7rem 1rem;
+  cursor: pointer;
+}
+
+ul li:not(:last-child) {
+  border-right: 2px solid black;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.calc-container {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  padding: 5% 10% 0 10%;
+}
+
+.do-math-quote {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+.quoteContainer,
+.notification {
+  font-size: 1.3rem;
+  gap: 10px;
+  text-align: center;
+  margin-top: 7%;
+}
+
+.quoteContainer .author {
+  font-size: 1rem;
+}
+
+.text-wraper {
+  padding: 3% 10% 0 10%;
+}
