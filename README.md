@@ -76,9 +76,7 @@ This is a Calculator Project built with React components. First block of module 
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-Coming Soon...
-Static Server deployed <a href="https://math-magician-txyt.onrender.com/">here</a>.
+Static Server deployed <a href="https://math-magician-txyt.onrender.com/">HERE</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
