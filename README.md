@@ -121,7 +121,6 @@ Clone:
 
 
  ```sh
-  npm install
   npm start
 ```
 
