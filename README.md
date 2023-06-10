@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="logo.jpg" alt="logo" width="250"  height="auto" />
+  <img src="logo.png" alt="logo" width="250"  height="auto" />
   <br/>
   <h1><b>Math Magicians</b></h1>
 </div>
@@ -78,7 +78,7 @@ This is a Calculator Project built with React components. First block of module 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 Coming Soon...
-<!-- Try it with <a href="https://mar12358.github.io/math-magicians/">gh-pages</a> -->
+Static Server deployed <a href="https://math-magician-txyt.onrender.com/">here</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
